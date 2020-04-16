@@ -1,9 +1,9 @@
 ### How can I help?
 A lot! Just get in touch and let's discuss best fit.
 
-There is a saying that experience is something you can't buy. 
+There is a saying that experience is something you can't buy. Well, not quite right these days... 
 
-Well, not quite right these days. I am offering my 18+ year experience gained in ASIC/FPGA and Embedded Systems design. Most of [my career](https://www.linkedin.com/in/pleskacj) I spent in ASIC/FPGA services, serving customers world wide. 
+I am offering my 18+ year experience gained in ASIC/FPGA and Embedded Systems design. Most of [my career](https://www.linkedin.com/in/pleskacj) I spent in ASIC/FPGA services, serving customers world wide. 
 
 
 #### Chip design services. From idea to RTL implementation. 
@@ -20,6 +20,7 @@ Well, not quite right these days. I am offering my 18+ year experience gained in
 * Project management and technical lead.
 * Critical debug. 
 
+---
 ### Contact
 
 [Jan Pleskac](https://www.linkedin.com/in/pleskacj)
