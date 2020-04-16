@@ -9,16 +9,20 @@ I am offering my 18+ year experience gained in ASIC/FPGA and Embedded Systems de
 #### Chip design services. From idea to RTL implementation. 
 * Design and verification services for ASIC/FPGA.
 * All aspects from block level design to SoC integration, desing optimization.
+* Design flow automation and productivity improvement.
  
 
 #### Independent review 
 * Idea validation, feasibility study.
 * FPGA board schematic review.
+* Design flow review and 
 
 
 #### Crisis management
 * Project management and technical lead.
-* Critical debug. 
+* Critical debug.
+* IP maintenance.
+
 
 ---
 ### Contact
