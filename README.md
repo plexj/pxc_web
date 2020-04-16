@@ -9,8 +9,8 @@ Chip design services. From idea to implementation.
 
 #### Contact
 
-Jan Pleskac [Linked In profile](https://www.linkedin.com/in/pleskacj)
+[Jan Pleskac](https://www.linkedin.com/in/pleskacj)
 
 +420 603 931 006
 
-jan.pleskac@pxconsult.tech
+[jan.pleskac@pxconsult.tech](mailto:jan.pleskac@pxconsult.tech)
