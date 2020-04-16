@@ -8,7 +8,7 @@ I am offering my experience gained in ASIC/FPGA and Embedded Systems design. Mos
 
 #### Chip design services. From idea to RTL implementation. 
 * Design and verification services for ASIC/FPGA.
-* All aspects from block level design to SoC integration, desing optimization.
+* All aspects from block level design to SoC integration, design optimization, IP maintenance, porting to FPGA.
 * Design flow automation and productivity improvement.
  
 
@@ -21,7 +21,7 @@ I am offering my experience gained in ASIC/FPGA and Embedded Systems design. Mos
 #### Crisis management
 * Project management and technical lead.
 * Critical debug.
-* IP maintenance.
+
 
 
 ---
