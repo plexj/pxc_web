@@ -9,7 +9,7 @@ Chip design services. From idea to implementation.
 
 #### Contact
 
-Jan Pleskac [![LinkedIn](https://plexj.github.io/pxc_web/LI-In-Bug.png)](https://www.linkedin.com/in/pleskacj)
+Jan Pleskac [LinkedIn](https://www.linkedin.com/in/pleskacj)
 
 +420 603 931 006
 
