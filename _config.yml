@@ -5,3 +5,5 @@ description: [Chip design services. Let's make your idea real.]
 author: PxConsult.tech
 email: jan.pleskac@pxconsult.tech
 github_username: plexj
+github:
+  is_project_page: false
