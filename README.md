@@ -37,4 +37,4 @@ You can reuse [my experience gained in ASIC/FPGA and Embedded Systems design](ht
 
 [jan.pleskac@pxconsult.tech](mailto:jan.pleskac@pxconsult.tech)
 
-Registered in Czech Republic (GMT+1), ID: Ing. Jan Pleskac ICO: 65522539 
+Registered in Czech Republic (GMT+1), ID: Ing. Jan Pleskac ICO: 65222539, DIC: CZ7807222973 
